@@ -21,8 +21,7 @@
     - The user inputs a string, which is appended to the `CSC450_CT5_mod5.txt` file.
     - The program then creates `CSC450-mod5-reverse.txt`, containing the reversed content of the input file.
 
-    Author: [Your Name]
-    Date: [Date]
+   
 */
 #include <iostream>
 #include <fstream>
