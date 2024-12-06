@@ -35,8 +35,7 @@
     This program appends user-provided input to an existing file and then reads the file's content, reverses it,
     and writes the reversed content to a new file.
 
-    Author: [Your Name]
-    Date: [Date]
+    
 */
 
 // Function to reverse the content of a file and write it to another file
